@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/auth-8d988.appspot.com/o/firebaseauth.jpeg?alt=media&token=f8095c49-a3ec-47a0-b933-c4a2f2257bfa" width="100" height="500" />
+<img src="https://firebasestorage.googleapis.com/v0/b/auth-8d988.appspot.com/o/firebaseauth.jpeg?alt=media&token=f8095c49-a3ec-47a0-b933-c4a2f2257bfa" width="200" height="350" />
 
 ### Install React Native
 ```
