@@ -11,12 +11,13 @@ state = { loggedIn: null };
 //firebase initial config setup
   componentWillMount(){
     firebase.initializeApp({
-      apiKey: "AIzaSyAz4li1tF5m2oU7GBgmO2BKg2btRCEbfXE",
-      authDomain: "auth-8d988.firebaseapp.com",
-      databaseURL: "https://auth-8d988.firebaseio.com",
-      projectId: "auth-8d988",
-      storageBucket: "auth-8d988.appspot.com",
-      messagingSenderId: "1018433798257"
+      //these details are given by firebase when the project is initialized
+      apiKey: "your api key",
+      authDomain: "your url",
+      databaseURL: "your url",
+      projectId: "your project id",
+      storageBucket: "your storage bucket",
+      messagingSenderId: "your number"
     });
 
     firebase.auth().onAuthStateChanged((user) => {
